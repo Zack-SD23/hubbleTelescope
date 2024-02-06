@@ -1,0 +1,23 @@
+/* CSS Document */
+
+/* Styles.css, Zackary cline, 1/29/2024 */ 
+
+body, header, nav, main, footer, h1, div, img, ul {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+header {
+	color: #AF0003;
+	text-align: center;
+	padding: 50px 0 50px 0;
+	margin-bottom: 10%;
+}
+body {
+	background-color:#6D4EAD;
+}
+
+img {
+	
+}
